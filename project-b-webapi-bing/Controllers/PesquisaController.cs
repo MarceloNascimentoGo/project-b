@@ -17,7 +17,7 @@ namespace project_b_webapi.Controllers
         [HttpGet]
         public IList<string> Get()
         {
-            var result = new List<string> {"Marcelo", "Marcos", "Celma"};
+            var result = new List<string> {"Marcelo", "Marcos", "Celma", "Valquiria"};
 
             return result.ToArray();
         }
