@@ -38,9 +38,9 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
-            "Microsoft.Azure.CognitiveServices.Search.CustomSearch": {
+            "Microsoft.Azure.CognitiveServices.Search.BingCustomSearch": {
               "target": "Package",
-              "version": "[1.2.0, )"
+              "version": "[2.1.0-preview.1, )"
             }
           },
           "imports": [
