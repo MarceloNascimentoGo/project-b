@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "A:\\Projetos\\project-b\\project-b-webapi-bing\\project-b-webapi-bing.csproj": {}
+    "C:\\Projetos\\projetos-alfabeto\\project-b\\project-b-webapi-bing\\project-b-webapi-bing.csproj": {}
   },
   "projects": {
-    "A:\\Projetos\\project-b\\project-b-webapi-bing\\project-b-webapi-bing.csproj": {
+    "C:\\Projetos\\projetos-alfabeto\\project-b\\project-b-webapi-bing\\project-b-webapi-bing.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "A:\\Projetos\\project-b\\project-b-webapi-bing\\project-b-webapi-bing.csproj",
+        "projectUniqueName": "C:\\Projetos\\projetos-alfabeto\\project-b\\project-b-webapi-bing\\project-b-webapi-bing.csproj",
         "projectName": "project-b-webapi-bing",
-        "projectPath": "A:\\Projetos\\project-b\\project-b-webapi-bing\\project-b-webapi-bing.csproj",
-        "packagesPath": "C:\\Users\\Marcos Vinicius\\.nuget\\packages\\",
-        "outputPath": "A:\\Projetos\\project-b\\project-b-webapi-bing\\obj\\",
+        "projectPath": "C:\\Projetos\\projetos-alfabeto\\project-b\\project-b-webapi-bing\\project-b-webapi-bing.csproj",
+        "packagesPath": "C:\\Users\\marce\\.nuget\\packages\\",
+        "outputPath": "C:\\Projetos\\projetos-alfabeto\\project-b\\project-b-webapi-bing\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Marcos Vinicius\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\marce\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -41,6 +41,10 @@
             "Microsoft.Azure.CognitiveServices.Search.BingCustomSearch": {
               "target": "Package",
               "version": "[2.1.0-preview.1, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[106.11.8-alpha.0.7, )"
             }
           },
           "imports": [

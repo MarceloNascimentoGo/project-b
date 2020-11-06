@@ -25,11 +25,6 @@ C:\Projetos\projetos-alfabeto\project-b\project-b-webapi-bing\obj\Debug\netcorea
 <<<<<<< HEAD
 C:\Projetos\projetos-alfabeto\project-b\project-b-webapi-bing\bin\Debug\netcoreapp3.1\Microsoft.Azure.CognitiveServices.Search.BingCustomSearch.dll
 =======
-C:\Projetos\projetos-alfabeto\project-b\project-b-webapi-bing\bin\Debug\netcoreapp3.1\Microsoft.Azure.CognitiveServices.Search.CustomSearch.dll
-C:\Projetos\projetos-alfabeto\project-b\project-b-webapi-bing\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.dll
-C:\Projetos\projetos-alfabeto\project-b\project-b-webapi-bing\bin\Debug\netcoreapp3.1\Microsoft.Rest.ClientRuntime.Azure.dll
-C:\Projetos\projetos-alfabeto\project-b\project-b-webapi-bing\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
-C:\Projetos\projetos-alfabeto\project-b\project-b-webapi-bing\obj\Debug\netcoreapp3.1\project-b-webapi-bing.csproj.CopyComplete
 A:\Projetos\project-b\project-b-webapi-bing\bin\Debug\netcoreapp3.1\appsettings.Development.json
 A:\Projetos\project-b\project-b-webapi-bing\bin\Debug\netcoreapp3.1\appsettings.json
 A:\Projetos\project-b\project-b-webapi-bing\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
@@ -55,3 +50,4 @@ A:\Projetos\project-b\project-b-webapi-bing\obj\Debug\netcoreapp3.1\project-b-we
 A:\Projetos\project-b\project-b-webapi-bing\obj\Debug\netcoreapp3.1\project-b-webapi-bing.pdb
 A:\Projetos\project-b\project-b-webapi-bing\obj\Debug\netcoreapp3.1\project-b-webapi-bing.genruntimeconfig.cache
 >>>>>>> cb824a28d1fe12fc58bb80b407da9e47bd11861f
+C:\Projetos\projetos-alfabeto\project-b\project-b-webapi-bing\bin\Debug\netcoreapp3.1\RestSharp.dll
