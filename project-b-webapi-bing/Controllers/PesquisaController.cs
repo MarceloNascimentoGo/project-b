@@ -34,12 +34,12 @@ namespace project_b_webapi.Controllers
         }
 
         [HttpGet("query/{query}")]
-        public async Task<BingNewsResponse> GetAsync(string query)
+        public async Task<List<Value>> GetAsync(string query)
         {
             var client = new BingSearchClient();
             var response = await client.Request(query);
 
-            return response;
+            return response.Value;
         }
     }
 }

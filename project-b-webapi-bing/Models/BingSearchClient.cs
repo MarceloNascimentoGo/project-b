@@ -15,7 +15,7 @@ namespace project_b_webapi_bing.Models
             var request = new RestRequest();
             var cancellationTokenSource = new CancellationTokenSource();
 
-            request.AddHeader("Ocp-Apim-Subscription-Key", "CHAVE_BING");
+            request.AddHeader("Ocp-Apim-Subscription-Key", "{KEY}");
             request.AddParameter("q", query);
 
             var response = await Client.GetAsync<BingNewsResponse>(request, cancellationTokenSource.Token);
